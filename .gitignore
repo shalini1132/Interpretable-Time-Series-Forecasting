@@ -6,24 +6,3 @@ __pycache__/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
-# Dataset files (optional: comment out if small CSV)
-data/*.csv
-
-# Outputs / plots (auto-generated)
-outputs/
-
-# Virtual environment / env
-venv/
-env/
-*.egg-info/
-
-# Environment files
-.env
-*.env
-
-# OS / editor files
-.DS_Store
-*.swp
-*.bak
-Thumbs.db
